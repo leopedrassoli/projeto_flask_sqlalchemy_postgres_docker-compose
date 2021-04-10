@@ -1,0 +1,1 @@
+# projeto_flask_sqlalchemy_postgres_docker-compose
